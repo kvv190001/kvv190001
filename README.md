@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Cyber Security and AWS**
 
-- 💬 Ask me about **React.js, Node.js, and Java Spring Boot**
-
 - 📫 How to reach me **stevenvuswe@gmail.com**
 
 - ⚡ Fun fact **I know how to play guitar and bamboo flute**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvv190001&show_icons=true&locale=en&layout=compact" alt="kvv190001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvv190001&show_icons=true&locale=en" alt="kvv190001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvv190001&" alt="kvv190001" /></p>
