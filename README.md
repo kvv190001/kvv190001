@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer based in Dallas, Texas</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvv190001&label=Profile%20views&color=0e75b6&style=flat" alt="kvv190001" /> </p> -->
-
+</br>
 
 - 🔭 I’m currently working with Texas Instruments on **Wi-SUN IoT networks**
 
