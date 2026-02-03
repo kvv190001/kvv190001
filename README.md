@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently work at WorldLink as Software Engineer
 
-- 🌱 I’m currently learning **Cyber Security and AWS**
+- 🌱 I’m currently learning **GenAI and AWS**
 
 - 📫 How to reach me **khuevuswe@gmail.com**
 
