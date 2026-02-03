@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and AWS**
 
-- 📫 How to reach me **stevenvuswe@gmail.com**
+- 📫 How to reach me **khuevuswe@gmail.com**
 
 - ⚡ Fun fact **I know how to play guitar and bamboo flute**
 
